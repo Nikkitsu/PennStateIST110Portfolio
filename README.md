@@ -1,1 +1,0 @@
-Throughout my time in my IST course, I've completed several projects for a grade, each testing my knowledge on different topics. I came to this course with a fair bit of general computer science and internet know-how, and found good use for many of my skills in creating these.
